@@ -1,11 +1,9 @@
 {
-  "posts": [
+  "type": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "cuc 1",
+      "status-health": 80
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
